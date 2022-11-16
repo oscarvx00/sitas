@@ -10,3 +10,6 @@
 [submodule "src/frontend"]
 	path = src/frontend
 	url = https://github.com/oscarvx00/sitas-frontend
+[submodule "src/storagemanager"]
+	path = src/storagemanager
+	url = https://github.com/oscarvx00/sitas-storagemanager
