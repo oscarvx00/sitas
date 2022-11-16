@@ -1,0 +1,12 @@
+[submodule "src/downloaders/youtube"]
+	path = src/downloaders/youtube
+	url = https://github.com/oscarvx00/sitas-downloaders-youtube
+[submodule "src/downloaders/soundcloud"]
+	path = src/downloaders/soundcloud
+	url = https://github.com/oscarvx00/sitas-downloaders-soundcloud
+[submodule "src/backend"]
+	path = src/backend
+	url = https://github.com/oscarvx00/sitas-backend
+[submodule "src/frontend"]
+	path = src/frontend
+	url = https://github.com/oscarvx00/sitas-frontend
